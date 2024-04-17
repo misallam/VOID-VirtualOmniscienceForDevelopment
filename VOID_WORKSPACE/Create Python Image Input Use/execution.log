@@ -1,0 +1,24 @@
+2024-04-09 02:59:44,709 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-04-09 02:59:45,259 - INFO - Script file created: VOID_WORKSPACE\Create Python Image Input Use\main1.py
+2024-04-09 02:59:46,116 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-04-09 02:59:46,170 - INFO - Inputs file created: VOID_WORKSPACE\Create Python Image Input Use\inputs1.txt
+2024-04-09 02:59:46,219 - INFO - Script file created: VOID_WORKSPACE\Create Python Image Input Use\main2.py
+2024-04-09 02:59:47,064 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-04-09 02:59:47,067 - INFO - Inputs file created: VOID_WORKSPACE\Create Python Image Input Use\inputs2.txt
+2024-04-09 02:59:47,073 - INFO - Requirements written to VOID_WORKSPACE\Create Python Image Input Use\requirements.txt
+2024-04-09 02:59:57,573 - INFO - icecream is already installed
+2024-04-09 03:00:07,177 - INFO - numpy is already installed
+2024-04-09 03:00:11,127 - INFO - Attempting to install PIL ...
+2024-04-09 03:00:21,222 - INFO - PIL installed successfully: b'Requirement already satisfied: Pillow in c:\\users\\smart lap\\appdata\\local\\programs\\python\\python312\\lib\\site-packages (10.2.0)\r\n'
+2024-04-09 03:00:22,210 - ERROR - Execution Error in main1.py: [Errno 2] No such file or directory: 'example.jpg'
+2024-04-09 03:00:22,216 - ERROR - Execution Error in main2.py: [Errno 2] No such file or directory: 'example.jpg'
+2024-04-09 03:00:22,219 - INFO - Attempting to fix errors and re-execute ...
+2024-04-09 03:00:25,304 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-04-09 03:00:25,312 - INFO - Removed file: VOID_WORKSPACE\Create Python Image Input Use\main1.py
+2024-04-09 03:00:25,323 - INFO - Removed file: VOID_WORKSPACE\Create Python Image Input Use\main2.py
+2024-04-09 03:00:25,336 - INFO - Script file recreated: VOID_WORKSPACE\Create Python Image Input Use\main1.py
+2024-04-09 03:00:25,369 - INFO - Script file recreated: VOID_WORKSPACE\Create Python Image Input Use\main2.py
+2024-04-09 03:00:25,618 - INFO - Execution Output:
+Script main1.py executed successfully with mocked inputs.
+2024-04-09 03:00:25,618 - INFO - Execution Output:
+Script main2.py executed successfully with mocked inputs.
