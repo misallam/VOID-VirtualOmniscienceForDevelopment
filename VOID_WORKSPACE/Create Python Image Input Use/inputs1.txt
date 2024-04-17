@@ -1,0 +1,3 @@
+Images:
+Description: path_to_your_image, Type=jpg, Topic = Create multiple python scripts that takes an image as input and extract the matrics represent it. Use Numpy and any other nessecary libs needed
+
