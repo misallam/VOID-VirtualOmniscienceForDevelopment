@@ -1,0 +1,22 @@
+DONE - Code Writing & Successful Debugging
+DONE - Libs Download & Mapping via Terminal
+DONE - Live Logs (Python Files Creation / Python Files Editing Versions / Requirements Text File Creation / Requirements Errors & Updates)
+DONE - Add Request Title with NLP
+DONE - Change PROMPT into Goals & Descriptions
+DONE - Save the Loggings into a file within the file
+DONE - Capitalize the folders title
+DONE - Add Mocked Inputs for automated test cases
+DONE - Idntify materials types & properties
+
+
+PROGRESS - Browsing & download properties
+PROGRESS - Add PDFs & Word Files & Sheets into Materials
+PROGRESS - Enhance Title Generation
+PROGRESS - Idea Refinements by GPT
+
+
+NOTYET - System Compatability with Terminals
+NOTYET - Multiple Files
+
+NOTYET - Handle uploading files in the GOAL var instead of text
+NOTYET - Add and Recognize Other Languages
